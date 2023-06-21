@@ -1,0 +1,15 @@
+.form-valdition{
+    border : 1px solid red;
+}
+.hidden{
+    display: none;
+    visibility: hidden;
+}
+.header {
+    display: block;
+  }
+@media (max-width: 991.98px) {
+    .header {
+      display: none !important;
+    }
+  }
